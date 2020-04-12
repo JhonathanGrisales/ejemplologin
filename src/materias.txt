@@ -1,0 +1,9 @@
+C1,Programacion 1,30
+C2,Bases de Datos 1,25
+D1,Programaci?n 2,12
+D2,Sistemas Operativos 1,35
+D7,Sistemas  1,35
+D15,matematicas,45
+D45,Infoetica,5
+D18,Contexto,6
+F5,Deporte,10
